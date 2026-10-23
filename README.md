@@ -2,7 +2,7 @@
 
 A horizontal snap carousel for SwiftUI.
 
-![Cluster demo](Media/cluster-demo.gif)
+![Cluster demo](media/cluster-demo.gif)
 
 ## Requirements
 
